@@ -1,0 +1,4 @@
+Diego::50
+Leo::250
+Nestor::100
+Secco::200
